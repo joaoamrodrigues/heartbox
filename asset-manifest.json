@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/heartbox.github.io/static/css/main.d5418c2e.css",
+    "main.js": "/heartbox.github.io/static/js/main.dcb8bfb9.js",
+    "index.html": "/heartbox.github.io/index.html",
+    "main.d5418c2e.css.map": "/heartbox.github.io/static/css/main.d5418c2e.css.map",
+    "main.dcb8bfb9.js.map": "/heartbox.github.io/static/js/main.dcb8bfb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5418c2e.css",
+    "static/js/main.dcb8bfb9.js"
+  ]
+}
